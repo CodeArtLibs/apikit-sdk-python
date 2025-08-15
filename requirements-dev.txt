@@ -1,0 +1,11 @@
+ruff
+pytest
+pytest
+pytest-asyncio
+pytest-xdist
+pytest-env
+mypy
+twine
+httpie
+pre-commit
+types-setuptools

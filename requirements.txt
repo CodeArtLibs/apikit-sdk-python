@@ -1,0 +1,8 @@
+# https://github.com/encode/httpx/blob/master/CHANGELOG.md
+httpx[http2]==0.28.1
+
+# https://github.com/ijl/orjson/blob/master/CHANGELOG.md
+orjson==3.10.18
+
+# https://github.com/aviramha/ormsgpack/blob/master/CHANGELOG.md
+ormsgpack==1.10.0
